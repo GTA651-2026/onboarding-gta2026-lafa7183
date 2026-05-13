@@ -10,7 +10,7 @@
 
 ## 1. Outil utilisé
 
-Outil : __
+Outil : DeepSeek
 Version / date d'accès : __
 
 *(Si plusieurs outils, dupliquez cette section.)*
@@ -21,7 +21,7 @@ Version / date d'accès : __
 
 *(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
 
-__
+__Il m'a aidé a répondre au question
 
 ---
 
@@ -48,5 +48,5 @@ __
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : __Alexis Lafleur
+Date : __2026-05-13
